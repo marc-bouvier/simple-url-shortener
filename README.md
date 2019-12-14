@@ -16,7 +16,7 @@ Admittedly, I only spent about an hour looking around, but I didn't find anythin
 * PHP 5.4+ or 7+
 * A recent version of MySQL
 
-### Alternateive with nginx
+### Alternative with nginx
 
 ```
 location / {
